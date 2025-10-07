@@ -1,4 +1,0 @@
-login
-index
-register
-recommendation
